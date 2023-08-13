@@ -11,7 +11,7 @@ int main(){
     cout<<"The string you've entered is: "<<str<<endl;
     if(str.length()>0){
         cout<<"this string is not empty!"<<endl;
-        cout<<"permission modified"<<endl;
+        
 
     }
     return 0;
