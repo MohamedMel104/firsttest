@@ -11,7 +11,7 @@ int main(){
     cout<<"The string you've entered is: "<<str<<endl;
     if(str.length()>0){
         cout<<"this string is not empty!"<<endl;
-        
+        cout <<"one more thing added";
 
     }
     return 0;
